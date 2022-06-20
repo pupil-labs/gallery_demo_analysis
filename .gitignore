@@ -1,0 +1,8 @@
+old_stuff/
+.idea
+Viewing_Paintings_*/
+.ipynb_checkpoints
+fixations_with_aois_distributed.csv
+fixations_with_aois_nested.csv
+conda-env/
+figures/
