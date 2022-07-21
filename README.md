@@ -1,4 +1,4 @@
-# Analysing Areas on Interest with Pupil Invisible and the Reference Image Mapper
+# Analysing Areas of Interest with Pupil Invisible and the Reference Image Mapper
 This repository contains jupyter notebooks with code examples how to load, display, define and aggregate Areas of Interest
 and fixations inside them.
 
